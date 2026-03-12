@@ -8,7 +8,7 @@ body {
 .top {
     background-color: #1F2937;
     color: white;
-    padding: 30px 150px;
+    padding: 20px 150px 70px;
     
 }
 .top-header {
@@ -31,8 +31,7 @@ a {
     display: flex;
 }
 .img-ele {
-    width: 400px;
-
+    width: 300px;
 }
 .about-left {
     display: flex;
